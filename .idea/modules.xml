@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vire_glof.iml" filepath="$PROJECT_DIR$/vire_glof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/vire_glof_android.iml" filepath="$PROJECT_DIR$/android/vire_glof_android.iml" />
+    </modules>
+  </component>
+</project>
